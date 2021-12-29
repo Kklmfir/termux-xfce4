@@ -1,10 +1,13 @@
-# About
-Hai all 🤗, may i introduce myself and this project.
-• Name of author: [Almer K.](github.com/Kklmfir)
-• Date build: 28 December 2021
-  ## Documentation
-  ## Installation
-  ## System Minimum Requirement
+
+<p>
+# About <br/>
+Hai all 🤗, may i introduce myself and this project. <br/>
+• Name of author: [Almer K.](github.com/Kklmfir) <br/>
+• Date build: 28 December 2021 <br/>
+  ## Documentation <br/>
+  ## Installation <br/>
+  ## System Minimum Requirement <br/>
+</p>
 # Preview
   ## Desktop
   ## Apps
