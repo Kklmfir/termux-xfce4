@@ -4,14 +4,22 @@
 apt install xfce4 -y
 apt install xfce4* otter-browser pulseaudio mpv moc neofetch ffmpeg geany leafpad xed thunar -y
 
+# Make directory
+mkdir -p Documents
+mkdir -p Downloads
+mkdir -p Music
+mkdir -p Videos
+
 # Move to Home
-mv .bashrc $HOME
-mv .vimrc $HOME
 mv .config $HOME
 mv .themes $HOME
-mv .icons $HOME
 mv .fonts $HOME
-mv .local $HOME
+mv Documents $HOME
+mv Downloads $HOME
+mv Music $HOME
+mv Picture $HOME
+mv Videos $HOME
+
 
 # Success and How to connect to VNC
  echo -e """
