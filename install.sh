@@ -9,8 +9,8 @@ pkg install x11-repo -y
 apt install moc vim emacs nano vi w3m curl tty-clock -y
 
 # Install GUI Apps
-apt install firefox leafpad telegram-desktop -y
+apt install vlc leafpad thunar telegram-desktop -y
 
 # Install GUI 
-cd file && chmod 777 * && bash install.sh
-clear && cd #HOME/termux-xfce4
+cd file && chmod 777* && bash install.sh
+clear && cd $HOME/termux-xfce4
