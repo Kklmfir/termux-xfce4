@@ -1,7 +1,8 @@
 # Banner
 
 # Installation
-apt install xfce4 xfce4-* otter-browser pulseaudio mpv moc neofetch ffmpeg geany leafpad Firefox xorg-* thunar 
+apt install xfce4 -y
+apt install xfce4* otter-browser pulseaudio mpv moc neofetch ffmpeg geany leafpad xed thunar -y
 
 # Move to Home
 mv .bashrc $HOME
